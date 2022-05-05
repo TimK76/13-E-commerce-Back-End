@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const res = require("express/lib/response");
+// const res = require("express/lib/response");
 const { User } = require("../../models");
 
 // GET /api/users
